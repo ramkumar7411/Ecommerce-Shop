@@ -7,7 +7,6 @@ The Onlineshop is a virtual store on the Internet where customers can browse the
 [![Django Version](https://img.shields.io/badge/django-2.00-brightgreen.svg)](https://djangoproject.com)
 
 
-
 # Abstract
 
 Electronic Commerce is process of doing business through computer networks. A person sitting on his chair in front of a computer can access all the facilities of the Internet to buy or sell the products.
